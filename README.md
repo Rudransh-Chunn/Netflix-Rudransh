@@ -1,8 +1,8 @@
-# 🎬 Netflix-Rudransh
+#  Netflix-Rudransh
 
 A Netflix-inspired streaming platform clone built with HTML, CSS, and JavaScript using real movie data from TMDB and trailer previews from YouTube.
 
-## 🚀 Features
+##  Features
 
 * Dynamic movie categories from TMDB API
 * Trending movie banner
@@ -10,15 +10,15 @@ A Netflix-inspired streaming platform clone built with HTML, CSS, and JavaScript
 * Responsive Netflix-style UI
 * Smooth animations and transitions
 * Glassmorphism navigation bar
-* Rudransh Specials section ⭐
+* Rudransh Specials section 
 * Dynamic movie data loading
 * YouTube trailer integration
 
-## 🌐 Demo Link 
+##  Demo Link 
 
 https://rudranshflix.netlify.app/
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
@@ -26,7 +26,7 @@ https://rudranshflix.netlify.app/
 * TMDB API
 * YouTube Data API
 
-## 📸 Preview
+##  Preview
 
 Netflix-style homepage with:
 
@@ -35,12 +35,12 @@ Netflix-style homepage with:
 * Trailer previews
 * Smooth scrolling experience
 
-## ⚡ Installation
+##  Installation
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/netflix-rudransh.git
+git clone https://github.com/Rudransh-Chumm/netflix-rudransh.git
 ```
 
 2. Open the project folder
@@ -49,7 +49,7 @@ git clone https://github.com/YOUR_USERNAME/netflix-rudransh.git
 
 4. Open `index.html` in your browser
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 * Search functionality
 * Movie details modal
@@ -59,13 +59,13 @@ git clone https://github.com/YOUR_USERNAME/netflix-rudransh.git
 * Better recommendation engine
 * Backend authentication
 
-## 👨‍💻 Developer
+##  Developer
 
 Created by **Rudransh**
 
 Student Developer passionate about web development, UI/UX design, creative coding, and interactive digital experiences.
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is created for educational and portfolio purposes only.
 
